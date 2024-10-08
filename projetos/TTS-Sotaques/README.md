@@ -12,7 +12,7 @@ oferecida no segundo semestre de 2024, na Unicamp, sob supervisão da Profa. Dra
 | João Gabriel Teixeira Lima  | 237473  | Eng. de Computação|
 | Rita Braga Soares da Silva  | 251627  | Graduação Estatística|
 
-Link para os slides de apresentação da Entrega 2 [aqui](https://docs.google.com/presentation/d/e/2PACX-1vQikFuBtzlrPWVnxrWJvFwhY--e8GFf5YpjGtCYTuwvlJ8whJlT63VM438m4BwytQ/pub?start=false&loop=false&delayms=60000).
+**Link para os slides de apresentação da Entrega 2 [aqui](https://docs.google.com/presentation/d/e/2PACX-1vQikFuBtzlrPWVnxrWJvFwhY--e8GFf5YpjGtCYTuwvlJ8whJlT63VM438m4BwytQ/pub?start=false&loop=false&delayms=60000).**
 
 ## Resumo (Abstract)
 
